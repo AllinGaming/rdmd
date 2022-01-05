@@ -3,8 +3,8 @@ An appointment booking client application made using Node JS, Firebase for Login
 
 <h2>Requirements:</h2>
 <ul> 
-  <li>Node</li>
-  <li>Server App</li>
+  <li>Node :heavy_check_mark:</li>
+  <li>Server App :heavy_check_mark:</li>
 </ul>
 
 <h2>Application contents:</h2>
